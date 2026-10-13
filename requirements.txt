@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+pypdf>=5,<7
+python-pptx>=1.0,<2
+google-genai>=1.0,<2
+supabase>=2.25,<3
+youtube-transcript-api>=1.0,<2
+pandas
+numpy
